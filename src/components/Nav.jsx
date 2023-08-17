@@ -8,12 +8,6 @@ const Nav = ()=>{
             <li>Contact</li>
           </ul>
         </nav>
-        <nav className="mobile-nav" role='navigation'>
-          <ul className='mobile-nav--list'>
-            <li>About</li>
-            <li>Contact</li>
-          </ul>
-        </nav>
       </div>
     )
 }
