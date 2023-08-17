@@ -8,13 +8,15 @@ function App() {
 
   return (
     <>
-     <div className="header--wrapper">
+     <div className="header--parent">
       <Header />
      </div> 
      <div id="site-content">
       <WelcomeContent />
      </div>
-     <Footer />
+     <div className="footer--parent">
+      <Footer />
+     </div>
     </>
   )
 }
