@@ -1,0 +1,13 @@
+.footer--content{
+    border: 1px solid black;
+    list-style: none;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+}
+
+#footer--img{
+    max-width: 200px;
+    height: auto;
+    display: block;
+}
