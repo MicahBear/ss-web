@@ -17,6 +17,11 @@
 }
 
 .footer--right-insta-img img{
-height: 30px;
-width: 30px;
+height: 45px;
+width: 45px;
+}
+
+.footer--right-fbook-img img{
+    height:55px;
+    width:55px;
 }
