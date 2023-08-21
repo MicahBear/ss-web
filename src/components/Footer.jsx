@@ -23,8 +23,8 @@ const Footer = ()=>{
                     <h4 className="footer--right-title">Stay In The Loop</h4>
                     <a href="mailto:steffisweets@gmail.com" className="footer--right-contact">Contact</a>
                     <div className="footer--right-socialLinks">
-                    <ul>
-                        <li className="footer--right-insta"><a href="" className="footer--right-insta-img"><img src="" alt="instagram icon" /></a></li>
+                    <ul className="footer--right-list">
+                        <li className="footer--right-insta"><a href="" className="footer--right-insta-img"><img src="src/assets/noun-camera-5717053.png" alt="instagram icon" /></a></li>
                         <li className="footer--right-fbook"><a href="" className="footer--right-fbook-img"><img src="" alt="facebook icon" /></a></li>
                     </ul>
                     </div>

@@ -3,11 +3,20 @@
     list-style: none;
     display: flex;
     flex-flow: row;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 #footer--img{
     max-width: 200px;
     height: auto;
     display: block;
+}
+
+.footer--right-list{
+    list-style: none;
+}
+
+.footer--right-insta-img img{
+height: 30px;
+width: 30px;
 }
