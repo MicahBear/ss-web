@@ -3,9 +3,9 @@ const Header = ()=>{
     return(
         <header>
         <div className='site-logo'>
-          <div itemProp='name'>
-            <a itemprop='url' href="https://steffisweets.com" role='link'>
-              <img itemprop='logo' src='' alt='Steffi Sweets' />
+          <div >
+            <a type='url' href="https://steffisweets.com" role='link'>
+              <img type='logo' src='' alt='Steffi Sweets' />
             </a>
           </div>
         </div>
