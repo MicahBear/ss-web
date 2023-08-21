@@ -5,7 +5,7 @@ const Header = ()=>{
         <div className='site-logo'>
           <div >
             <a type='url' href="https://steffisweets.com" role='link'>
-              <img type='logo' src='' alt='Steffi Sweets' />
+              <img type='logo' src='src/assets/Steffi Stweets.png' alt='Steffi Sweets' />
             </a>
           </div>
         </div>
