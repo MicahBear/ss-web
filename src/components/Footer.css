@@ -1,5 +1,8 @@
+footer{
+    text-align: center;
+    margin-right: 40px;
+}
 .footer--content{
-    border: 1px solid black;
     list-style: none;
     display: flex;
     flex-flow: row;
@@ -14,6 +17,7 @@
 
 .footer--right-list{
     list-style: none;
+    padding:0%;
 }
 
 .footer--right-insta-img img{
