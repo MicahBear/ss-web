@@ -1,4 +1,4 @@
-
+import './WelcomeContent.css'
 const WelcomeContent = () =>{
     return(
         <section className='welcome--section'>
