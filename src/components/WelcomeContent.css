@@ -1,0 +1,34 @@
+.welcome--section{
+    font-family: 'Roboto Mono', monospace;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.welcome--left-title{
+    padding-right: 25px;
+}
+
+.welcome--left-title h1{
+    font-size: 2.5em;
+}
+
+.welcome--right-info{
+    font-size: 1em;
+}
+
+.welcome--right-who{
+    display:flex;
+    padding-top:5px;
+}
+
+.welcome--right-blocker{
+    padding-top:10px;
+    padding-bottom:15px;
+}
+.welcome--right-mission{
+  display: flex;
+  margin-top:5px;
+
+}
