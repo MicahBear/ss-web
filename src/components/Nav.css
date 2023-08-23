@@ -1,8 +1,9 @@
 .nav{
-    border: 1px solid red;
     display: flex;
     padding-left: 20px;
     padding-right: 20px;
+    margin-right:40px;
+    text-align: center;
 }
 .nav--list{
     list-style:none;
@@ -12,7 +13,7 @@
 }
 .nav--list-item a{
     text-decoration: none;
-    padding:5px;
+    padding:10px;
     font-family: 'Roboto Mono', monospace;
     color: black;
 }
