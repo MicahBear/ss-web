@@ -1,8 +1,8 @@
 import './Menu.css'
 const Menu = () =>{
     return(
-        <section className="menu--container">
-            <h3 className="">Menu</h3>
+        <section id="menu" className="menu--container">
+            <h3 className="">Seasonal Menu</h3>
             <ul className="menu--list">
                 <li className="menu--list-item">ube cinny bun</li>
                 <li className="menu--list-item">calamansi muffins</li>
