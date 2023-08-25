@@ -3,9 +3,10 @@
     justify-content: center;
 } */
 header {
-    background-image: url('../assets/annie-sprattCropped.jpg');
+    /* background-image: url('../assets/annie-sprattCropped.jpg');
     background-size: cover;
-    background-position: center;
+    background-position: center; */
+    background-color: #d8c4df;
     display: flex;
     flex-direction: column;
     align-items: center;
