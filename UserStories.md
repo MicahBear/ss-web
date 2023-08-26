@@ -11,6 +11,9 @@ Action:
     - [ ] title of featured and small span with acknowledgement to the seasonality of these items
     - [ ] contains 3 boxes with images and names of items below with descriptors
         - maybe the most popular or the super seasonal item thats around
+            - [ ] treat in a cup image
+            - [ ] 
+            - [ ]
 - keep menu section
     - [ ] remove anything without description
 - about section
