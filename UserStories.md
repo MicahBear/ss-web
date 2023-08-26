@@ -1,0 +1,20 @@
+Action:
+
+- move nav top left
+- treat header like hero section
+    - [ ] background color is purple (brand)
+    - [ ] image of ube beignets
+    - [ ] move tag line to lower end of image and enlarge font
+    - [ ] steffi sweets size should shrink and sit center top of web page. just right of nav
+    - [ ] under tag line place button to ‘follow up pop-ups’
+- have a section (featured section)
+    - [ ] title of featured and small span with acknowledgement to the seasonality of these items
+    - [ ] contains 3 boxes with images and names of items below with descriptors
+        - maybe the most popular or the super seasonal item thats around
+- keep menu section
+    - [ ] remove anything without description
+- about section
+    - [ ] need different color from white and brand purple maybe a lighter shade of purple or darker white
+    - [ ] image of Stef in element
+    - a little about them and maybe their family
+- lets keep footer.
