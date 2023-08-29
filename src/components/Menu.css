@@ -14,7 +14,7 @@
     text-align: left;
 }
 
-h3{
+.menu--title{
     font-size: 2em;
     border-bottom: 1px solid black;
 }

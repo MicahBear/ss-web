@@ -2,7 +2,7 @@ import './Menu.css'
 const Menu = () =>{
     return(
         <section id="menu" className="menu--container">
-            <h3 className="">Seasonal Menu</h3>
+            <h3 className="menu--title">Seasonal Menu</h3>
             <p>exact offerings vary seasonally follow us on <a href="http://">instagram</a> for current and pop up offerings!</p>
             <ul className="menu--list">
                 <li className="menu--list-item">
