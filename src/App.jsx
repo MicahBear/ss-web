@@ -1,5 +1,7 @@
-import Header from './components/Header'
+import Nav from './components/Nav'
+import Hero from './components/Hero'
 import Footer from './components/Footer'
+import InfoSection from './components/InfoSection'
 import WelcomeContent from './components/WelcomeContent'
 import Menu from './components/Menu'
 import './App.css'
@@ -8,30 +10,14 @@ function App() {
  
 
   return (
-    <>
-     <div className="header--parent">
-      <Header />
+    <div className="App">
+     <div className="nav--wrapper">
+      <Nav />
      </div> 
-     <div className="image--break">
-     <div className="image--parent">
-            <div className="image--link-parent">
-                <a href="http://">
-                    <img src="../src/assets/ubeBeignets.webp" alt="" />
-                </a>
-            </div>
-        </div>
-     </div>
+     <Hero />
      <div id="site-content">
+      <InfoSection />
       <WelcomeContent />
-     </div>
-     <div className="image--break">
-     <div className="image--parent">
-            <div className="image--link-parent">
-                <a href="http://">
-                    <img src="../src/assets/ubeBiko.webp" alt="" />
-                </a>
-            </div>
-        </div>
      </div>
      <div id="menu-content">
       <Menu />
@@ -39,7 +25,7 @@ function App() {
      <div className="footer--parent">
       <Footer />
      </div>
-    </>
+    </div>
   )
 }
 
