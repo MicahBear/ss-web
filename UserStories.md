@@ -2,9 +2,14 @@ Action:
 
 - move nav top left
 - treat header like hero section
-    - [ ] background color is purple (brand)
-    - [ ] image of ube beignets
-    - [ ] move tag line to lower end of image and enlarge font
+    - [ x ] background color is purple (brand)
+    - [ x ] image of ube beignets
+    - [ x ] ~~move tag line to lower end of image and enlarge font~~
+        - [ x ] moved tagline over hero image
+            - changed tagline from woman owned | family | commmunity to community | family
+            - font changed to script 
+            - font color is white over image
+            - image is matte and cropped
     - [ ] steffi sweets size should shrink and sit center top of web page. just right of nav
     - [ ] under tag line place button to ‘follow up pop-ups’
 - have a section (featured section)
