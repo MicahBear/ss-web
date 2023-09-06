@@ -33,14 +33,14 @@ const Menu = () =>{
                     <span className="list--item-title">champorado suman</span>
                     <p>chocolate rice cakes made with Argao cacao wrapped in banana leaves.</p>
                     </li>
-                <li className="menu--list-item">
+                {/* <li className="menu--list-item">
                     <span className="list--item-title">mango suman</span>
                     <p></p>
                     </li>
                 <li className="menu--list-item">
                     <span className="list--item-title">espasol</span>
                     <p></p>
-                    </li>
+                    </li> */}
             </ul>
         </section>
     )
